@@ -1,0 +1,1 @@
+9. git commit -m "message" : Đưa các file có sự thay đổi sang vùng local repo/ thư mục git
